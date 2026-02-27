@@ -1,0 +1,7 @@
+google-api-python-client
+youtube-transcript-api
+reportlab
+openai
+langchain
+python-dotenv
+yt-dlp
